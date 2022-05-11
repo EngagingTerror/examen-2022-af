@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>bestellingen</title>
+    <title>Keuken</title>
     <center>
     <img src="img\logo.png" width="120" height="120">
-    <h3>Welkom op de bar pagina</h3>
-        <p>Bestelde dranken.</p>
+    <h3>Welkom op de keuken pagina</h3>
+        <p>Bestelde eten.</p>
         <a href="bestelling.php">bestellingen</a>
         <a href="reservering.php">reserveren</a>
         <a href="bar.php">bar</a>
